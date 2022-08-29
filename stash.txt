@@ -1,5 +1,9 @@
 to be stashed
 
+<<<<<<< HEAD
 
 
 1- learning brancing and merging (from main branch)
+=======
+1- learning branching and meging form (new branch)
+>>>>>>> new-branch
